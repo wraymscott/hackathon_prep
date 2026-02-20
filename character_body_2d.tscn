@@ -1,3 +1,3 @@
 [gd_scene format=3 uid="uid://bd74y734knfaa"]
 
-[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1848458398]
+[node name="character" type="CharacterBody2D" unique_id=1848458398]
